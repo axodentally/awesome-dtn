@@ -14,6 +14,7 @@
 
 - [rfc9171](https://tools.ietf.org/html/rfc9171) - Bundle Protocol Specification Version 7
 - [rfc9172](https://tools.ietf.org/html/rfc9172) - Bundle Protocol Security Specification Version 7
+- [rfc9173](https://tools.ietf.org/html/rfc9173) - Default Security Contexts for Bundle Protocol Security (BPSec)
 - [pyDTN](https://git.ifne.eu/space-public/pyDTN) - Bundle Protocol 7 Proof of Concept Implementation
 - [dtn7-go](https://github.com/dtn7/dtn7-go) - Delay-tolerant networking software suite
 - [dtn7-rs](https://github.com/dtn7/dtn7-rs) - Rust implementation of a DTN based on RFC9171
