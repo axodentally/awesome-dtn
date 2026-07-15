@@ -27,6 +27,7 @@
 - [DTNME](https://github.com/nasa/DTNME) - DTN Marshal Enterprise Implementation
 - [dtn7zero](https://github.com/dtn7/dtn7zero) - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 - [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+- [Unibo-BP](https://gitlab.com/unibo-dtn/unibo-bp) - Bundle Protocol implementation developed by University of Bologna
 
 ## Bundle Protocol Version 6 - RFC 5050
 
