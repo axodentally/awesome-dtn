@@ -22,7 +22,7 @@
 - [µPCN](https://upcn.eu) - Micro Planetary Communication Network
 - [µD3TN](https://gitlab.com/d3tn/ud3tn) - Free, lean, and space-tested DTN protocol implementation running on POSIX and STM32 microcontrollers.
 - [TERRA](https://github.com/RightMesh/Terra/) - Lightweight and extensible DTN library
-- [ION-DTN](https://sourceforge.net/projects/ion-dtn/) - Delay-Tolerant Networking suitable for use in spacecraft
+- [ION-DTN](https://github.com/nasa-jpl/ION-DTN) - Delay-Tolerant Networking suitable for use in spacecraft
 - [HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 - [DTNME](https://github.com/nasa/DTNME) - DTN Marshal Enterprise Implementation
 - [dtn7zero](https://github.com/dtn7/dtn7zero) - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
@@ -34,7 +34,7 @@
 - [rfc6257](https://tools.ietf.org/html/rfc6257) - Bundle Security Protocol Specification
 - [DTN2](https://github.com/delay-tolerant-networking/DTN2) - DTN Reference Implementation
 - [IBR-DTN](https://github.com/ibrdtn/ibrdtn) - A modular and lightweight implementation of the bundle protocol.
-- [ION-DTN](https://sourceforge.net/projects/ion-dtn/) - Delay-Tolerant Networking suitable for use in spacecraft
+- [ION-DTN](https://github.com/nasa-jpl/ION-DTN) - Delay-Tolerant Networking suitable for use in spacecraft
 - [HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 - [DTNME](https://github.com/nasa/DTNME) - DTN Marshal Enterprise Implementation
 
